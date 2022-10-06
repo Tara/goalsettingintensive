@@ -14,7 +14,7 @@ Announcing the launch of our new workshop that addresses exactly this - *A Bette
 
 - November 15th 3-6pm PST (hosted virtually)
 - Facilitators: Brittany & Tara
-- [How to Sign Up](https://practice.do/me/brittany-storey/book-event/a-better-2023-vision-and-goal-setting-intensive-1)
 - Cost - $499, use the code “earlybird” and you will receive a 50% discount! Expires 10/20/22
 
+[Sign up!](https://practice.do/me/brittany-storey/book-event/a-better-2023-vision-and-goal-setting-intensive-1){: .button}
 <!-- ![this is a tooltip](/assets/images/Tara_Teich.jpg) -->
