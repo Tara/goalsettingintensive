@@ -22,8 +22,9 @@ title: "A Better 2023: Vision and Goal Setting Intensive"
 email: info@goalsettingintensive.com
 description: >- # this means to ignore newlines until "baseurl:"
   Plan your 2023 right with this amazing workshop!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: tara.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://tara.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /goalsettingintensive/      # place folder name if the site is served in a subfolder
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
