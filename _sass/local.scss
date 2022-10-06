@@ -15,23 +15,10 @@
   width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-// .home {
-//   background-image: url("images/goalbg.png");
-// }
-.page-content {
-  // background-image: url("images/goalbg.png");
-  // background-repeat: no-repeat;
-  // background-size: contain;
-  // background-attachment: fixed;
-  // background-position: center;
-  padding: $spacing-unit 0;
-  flex: 1;
-}
-
 .button {
-  background-color: $brand-color;
-  border: 2px solid $brand-color-dark;
-  color: $brand-color-dark;
+  background-color: $grey-color;
+  border: 2px solid $grey-color-dark;
+  color: $grey-color-dark;
   padding: 8px 16px;
   text-align: center;
   text-decoration: none;
@@ -46,15 +33,48 @@
 }
 
 .button:visited {
-  color: $brand-color-dark;
+  color: $grey-color-dark;
 }
 
 .button:hover {
-  background-color: $brand-color-dark;
+  background-color: $grey-color-dark;
   color: white;
   text-decoration: none;
 }
 
 .home {
   margin-top: 30px;
+}
+
+.site-header {
+  border-top: 5px solid $grey-color-dark;
+  background-color: $grey-color;
+  // border-bottom: 10px solid $grey-color-light;
+  min-height: $spacing-unit * 1.865;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+  color: $background-color;
+}
+
+.site-footer {
+  border-top: 4px solid $grey-color-light;
+}
+
+.site-title {
+  width: 100%;
+  // float: none;
+  // text-align: center;
+  display: flex;
+  justify-content: center;
+
+  &,
+  &:visited {
+    color: $background-color;
+  }
+}
+
+// hide the footer heading
+.footer-heading {
+  display: none;
 }

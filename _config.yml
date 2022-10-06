@@ -21,7 +21,7 @@
 title: "A Better 2023: Vision and Goal Setting Intensive"
 email: info@goalsettingintensive.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Plan your 2023 right with this amazing workshop!
+  Plan your 2023 right with this amazing workshop! Learn how to set ambitious personal goals and achieve them.
 domain: tara.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://tara.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /goalsettingintensive/      # place folder name if the site is served in a subfolder
